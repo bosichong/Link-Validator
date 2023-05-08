@@ -1,4 +1,4 @@
-let siteUrl = 'suiyan.cc'; // Define the suyan URL as a variable
+let siteUrl = 'suiyan.cc'; // Define the site URL as a variable
 
 let links = [
     {

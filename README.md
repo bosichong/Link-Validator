@@ -9,6 +9,13 @@
 - [@bosichong](https://github.com/bosichong)
 
 
+## 技术栈
+
+JavaScript 原生代码，node环境(18+)下即可运行。
+
+原理：采集对方的友情链接页面，搜索自己的网址是否存在即可验证友联是否存在。
+
+
 ## 在本地运行
 
 Clone 这个 project
@@ -54,13 +61,6 @@ let links = [
 ```bash
   node lv.js
 ```
-
-
-## 技术栈
-
-JavaScript 原生代码，node环境下即可运行。
-
-原理：采集对方的友情链接页面，搜索自己的网址是否存在即可验证友联是否存在。
 
 
 ## 🚀 关于
