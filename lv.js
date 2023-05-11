@@ -16,6 +16,30 @@ let links = [
     {
         site: "咕咚同学",
         ulr: "https://gudong.site/links.html"
+    },
+    {
+        site: "米虫的博客",
+        ulr: "http://www.mebugs.com/page/link.html"
+    },
+    {
+        site: "图灵技术域",
+        ulr: "https://www.omegaxyz.com/friends/"
+    },
+    {
+        site: "土木坛子",
+        ulr: "https://tumutanzi.com/links"
+    },
+    {
+        site: "折影轻梦",
+        ulr: "https://nexmoe.com/PY.html"
+    },
+    {
+        site: "Lime's Blog",
+        ulr: "https://blog.qninq.cn/"
+    },
+    {
+        site: "折影轻梦",
+        ulr: "https://nexmoe.com/PY.html"
     }
 ];
 
